@@ -1,0 +1,179 @@
+{
+  "Name": "Kenan Deari",
+  "Position": "Software Developer",
+  "Description": "Full Stack Web Developer leveraging over 3 years of customer service experience where communication and collaboration is a focus",
+  "Address": "Dallas, TX",
+  "Company": "Ironside HR",
+  "School": "Southern Methodist University",
+  "SocialMedias": [
+    "https://github.com/KenanDeari",
+    "https://www.linkedin.com/in/kenandeari/"
+  ],
+  "experiences": [
+    {
+      "companyName": "Ironside HR",
+      "url": "https://www.ironsidehr.com/",
+      "roles": [
+        {
+          "title": "Healthcare Recruiter",
+          "description": "Provide support to an organization in finding the qualified candidates for vacant job positions.",
+          "startDate": "2020-09-14",
+          "currentJob": true,
+          "location": "Dallas, TX"
+        }
+      ]
+    },
+    {
+      "companyName": "Crest Cadillac",
+      "url": "https://www.crestcadillactx.com/",
+      "roles": [
+        {
+          "title": "Loan Car Manager",
+          "description": "Managed 10 employees & ensured our fleet of 150+ vehicles were accounted for.",
+          "startDate": "2018-04",
+          "endDate": "2020-08",
+          "location": "Frisco, TX"
+        }
+      ]
+    },
+    {
+      "companyName": "Legacy Mart",
+      "url": "https://shopsatlegacy.com/shops/detail/legacy_mart",
+      "roles": [
+        {
+          "title": "Store Manager",
+          "description": "Worked tasks such as stacking shelfs, cashier, and cleaning to ensure our family owned corner store was ran efficiently.",
+          "startDate": "2017-05",
+          "endDate": "2018-03",
+          "location": "Plano, TX"
+        }
+      ]
+    }
+  ],
+  "Skills": [
+    {
+      "Area": "Web-Based Application Development",
+      "SkillSet": [
+        {
+          "Name": "JavaScript (ES5, ES6)",
+          "Hot": true
+        },
+        {
+          "Name": "HTML5",
+          "Hot": true
+        },
+        {
+          "Name": "CSS (SCSS/SASS)",
+          "Hot": true
+        },
+        {
+          "Name": "React",
+          "Hot": true
+        },
+        {
+          "Name": "JQuery",
+          "Hot": true
+        },
+        {
+          "Name": "NPM",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Databases",
+      "SkillSet": [
+        {
+          "Name": "MongoDB",
+          "Hot": true
+        },
+        {
+          "Name": "MySQL",
+          "Hot": true
+        },
+        {
+          "Name": "Sequelize",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Software Development Tools and Concepts",
+      "SkillSet": [
+        {
+          "Name": "Agile",
+          "Hot": true
+        },
+        {
+          "Name": "MERN",
+          "Hot": true
+        },
+        {
+          "Name": "Model View Controller (MVC)",
+          "Hot": true
+        },
+        {
+          "Name": "Progressive Web Apps (PWA)",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Platforms",
+      "SkillSet": [
+        {
+          "Name": "Windows",
+          "Hot": true
+        },
+        {
+          "Name": "Mac OS",
+          "Hot": true
+        }
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Druid RUI",
+      "Description": "This application's purpose is to serve as a restaurant management device. The consumer will be able to utilize viewing the menu digitally. The owner of the restaurant will be able to sign-up to add & remove items from the menu. The website was designed adequately with mobile-friendliness in mind & deployed via Heroku.",
+      "ScreenShotURL": "./druid.jpg",
+      "ProjectLink": "https://mighty-gorge-52471.herokuapp.com/",
+      "GithubLink": "https://github.com/KenanDeari/Digital-Menu-Project"
+    },
+    {
+      "Name": "Burger App!",
+      "Description": "This Javascript app uses express handlebars, Node, and Mysql to function. It's a responsive website that allows the user to devour hamburgers & re-order them. The user will also have the ability to add a custom burger to the database.",
+      "ScreenShotURL": "./burgerApp.jpg",
+      "ProjectLink": "https://fierce-shelf-96342.herokuapp.com/",
+      "GithubLink": "https://github.com/KenanDeari/Burger-Restaurant"
+    },
+    {
+      "Name": "Hungry At Home",
+      "Description": "Hungry at home provides users the ability to search recipes based on what type of food they have in mind. The website enables users to search their favorite type of alcohol & drink recipes that are generated with the users' favorite alcohol. I decided to include a news section due to the outbreak of Covid-19.",
+      "ScreenShotURL": "./HungryAtHome.jpg",
+      "ProjectLink": "https://github.com/aresx2009/Project1 ",
+      "GithubLink": "https://aresx2009.github.io/Project1/"
+    },
+    {
+      "Name": "Team Role Generator",
+      "Description": "An Employee Directory built for a manager or other employees to view non-sensitive data. Utilized a React Front-End.",
+      "ScreenShotURL": "./employee.jpeg",
+      "ProjectLink": "https://ariehh1.github.io/Employee-Directory/",
+      "GithubLink": "https://github.com/KenanDeari/Team-Role-Generator"
+    },
+    {
+      "Name": "Budget Tracker",
+      "Description": "A Budget Tracker application designed for the user to add their expenses and deposits with or without an internet connection. Progressive Web Application powered by IndexedDB.",
+      "ScreenShotURL": "./moneyicon192x192.jpg",
+      "ProjectLink": "https://github.com/aresx2009/Project1 ",
+      "GithubLink": "https://github.com/aresx2009/Project1 "
+    },
+    {
+      "Name": "Weather Dashboard",
+      "Description": "This application is a 7-day weather forecast dashboard created with JavaScript & HTML. The weather data will fetch the user's location & utilize an API to gather the local weather.",
+      "ScreenShotURL": "./weather.jpg",
+      "ProjectLink": "https://kenandeari.github.io/Weather-Forecast-App/",
+      "GithubLink": "https://github.com/KenanDeari/Weather-Forecast-App"
+    }
+  ]
+}
